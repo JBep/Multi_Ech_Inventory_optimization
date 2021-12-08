@@ -26,3 +26,14 @@ Major take-aways:
 
 About the code: 
 * I'm much better at handling a bunch of tables of data nowadays and don't resort to jamming things in text-files anymore. :)
+
+Retailers
+In this folder you find all the equations regarding retailer behaviour as described in 
+section 2.3 in the report.
+
+Warehouse
+In this folder you find all the equations regarding warehouse behavious and
+calculating waiting time as described in section 2.4 in the report.
+
+Data
+This folder holds text files with the indata provided by TPTS-
